@@ -28,11 +28,13 @@ How do I force close the game?
 
 ![image](https://github.com/adarshg3371/sudokufile/assets/114940577/d0dbca71-a454-422c-8f1c-8493a093c938)
 
+**SOLUTION BUTTON**
 whenever we are stuck in the sudoku then there is solution button available through which we can easily see the solution 
 and check our moves wheather it is right move or not.
 
 ![image](https://github.com/adarshg3371/sudokufile/assets/114940577/15785404-b1bd-4d96-b2f5-d93737183060)
 
+**CHECK MOVES**
 1) Check if the rows and columns contain values 1-9, without repetition.
 2) If any row or column violates this condition, the Sudoku board is invalid.
 3) Check to see if each of the 9 sub-squares contains values 1-9, without repetition. If they do, the Sudoku board is valid; otherwise, it is invalid.
