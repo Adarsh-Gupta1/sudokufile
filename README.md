@@ -15,6 +15,7 @@ No addition is involved; however there are three conditions that rely on each ot
 ![image](https://github.com/adarshg3371/sudokufile/assets/114940577/c4530689-5491-46b1-8b04-34ddf2959b4d)
 
 **RESET BUTTON**
+
 Whenever you start Sudoku, your saved game will be opened. If you'd like to stop playing that game and begin another, just select New Puzzle and begin your new game.
 
 ![image](https://github.com/adarshg3371/sudokufile/assets/114940577/693cbe6c-e4ab-44b4-97f8-02cdec9b95dd)
