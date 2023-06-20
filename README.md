@@ -1,4 +1,5 @@
 **SUDOKU PUZZLE**
+
 _**THE FOOD OF MIND**_
 
 The Sudoku Solver Java project uses Java Swing as the GUI toolkit and Apache Net Beans as the Integrated Development Environment (IDE). Java Swing is a powerful GUI toolkit for Java that provides a collection of graphical user interface (GUI) components such as buttons, labels, text fields, etc., which are used to create visually appealing and interactive applications in Java.
@@ -21,6 +22,7 @@ Whenever you start Sudoku, your saved game will be opened. If you'd like to stop
 ![image](https://github.com/adarshg3371/sudokufile/assets/114940577/693cbe6c-e4ab-44b4-97f8-02cdec9b95dd)
 
 **EXIT BUTTON**
+
 How do I force close the game?
 
 1) Press your device's Home button.
